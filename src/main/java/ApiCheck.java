@@ -51,6 +51,8 @@ public class ApiCheck {
 		System.out.println("\u001B[32m"
 				+ "Susscully program completed , you can see two files pass.txt and fail.txt in your current working directory"
 				+ "\u001B[0m");
+		// git remote add origin
+		// https://github.com/mudumalavamsikrishna/ApiCheck.git
 	}
 
 }
